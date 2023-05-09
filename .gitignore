@@ -1,0 +1,21 @@
+# Compiled source #
+*.class
+
+# Eclipse files
+.project
+.classpath
+.settings
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+logs/
+*.log
+*.log.*
+
+# Maven build files
+target/
+reports
+
